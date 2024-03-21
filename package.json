@@ -1,0 +1,28 @@
+{
+  "name": "markdown-it-custom-plugins",
+  "version": "1.0.2",
+  "description": "Enhance markdown-it with custom plugins for a richer markdown experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potter91dev/markdown-it-custom-plugins"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "plugins",
+    "emoji",
+    "highlighting"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^12.0.4",
+    "markdown-it-emoji": "^2.0.0",
+    "markdown-it-highlightjs": "^3.5.0",
+    "highlight.js": "^11.0.0",
+    "emoji": "^1.5.0"
+  }
+}
